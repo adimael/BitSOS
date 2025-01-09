@@ -40,7 +40,7 @@ Este projeto demonstra como implementar o sinal SOS em código Morse utilizando 
    ```bash
    git clone https://github.com/adimael/BitSOS.git
     ````
-
+   
 2. Abra o projeto no Visual Studio Code.
 3. Compile o código utilizando a extensão configurada.
 4. Simule o projeto no Wokwi ou carregue-o na placa BitDogLab.
