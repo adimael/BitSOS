@@ -22,7 +22,7 @@ Este projeto demonstra como implementar o sinal SOS em código Morse utilizando 
 
 ## 📁 Estrutura do Projeto
 
-- `main.c`: Código-fonte principal do projeto.
+- `BitSOS.c`: Código-fonte principal do projeto.
 - `README.md`: Documentação do projeto.
 - `diagram.json`: Arquivo de configuração para simulação no Wokwi.
 
